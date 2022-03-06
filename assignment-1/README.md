@@ -6,6 +6,8 @@
 <p>The next thing I did was I changed the hashing vectorizer to a count vectorizer so that I could use an n-gram and find word groupings rather than just single words. I am extracting 2-grams of words in addition to the 1-grams of individual words.This seemed to improve all the modules a bit, with the few models that were close to perfect (SVM, logistic regression, Naive Bayes, Perceptron, and Ridge Regression Classifier) now having 100% precision and accuracy.  </p>
 
 ![image](https://user-images.githubusercontent.com/86888346/156941285-75cba720-a166-45eb-a79f-510f48d76db6.png)
+![image](https://user-images.githubusercontent.com/86888346/156941686-5a88442e-1c17-4e86-8061-5d16bb2552aa.png)
+
 
 
 <p>The OLS model gave me some issues and typically would always come out with 48-50% precision and accuracy. I was able to improve this a bit with about 52% accuracy and 54% precision. The amount of false positives and true positives was greatly reduced congruently. </p>
