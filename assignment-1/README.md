@@ -1,5 +1,5 @@
 <h1>Assignment 1 - Movie Review Sentiment Analysis - Molly Cook</h1>
-<p>My first approach to this assignment was to add features and see if I could find a pattern there. I added a myriad of different features, as seen below, but decided to only implement 2 features. I removed the 2 existing features and used 'caps_count' and 'quotes_count'. The caps feature finds more that 2 capital letters in a row and the quotes count feature splits the spring by a quotation to find the count. To be honest, I didn't find a ton of success with many of the features and perhaps with a little more conscious tinkering I could have used better feautres. </p>
+<p>My first approach to this assignment was to add features and see if I could find a pattern there. I added a myriad of different features, as seen below, but decided to only implement 2 features. I removed the 2 existing features and used 'caps_count' and 'quotes_count'. The caps feature finds more than 2 capital letters in a row and the quotes count feature splits the spring by a quotation to find the count. To be honest, I didn't find a ton of success with many of the features and perhaps with a little more conscious tinkering I could have used better features. </p>
 
 ![image](https://user-images.githubusercontent.com/86888346/156940755-419bc2e2-ab39-4dad-8a9b-bcdbbf16744d.png)
 
@@ -11,7 +11,7 @@
 
 <p>The OLS model gave me some issues and typically would always come out with 48-50% precision and accuracy. I was able to improve this a bit with about 52% accuracy and 54% precision. The amount of false positives and true positives was greatly reduced congruently. </p>
 
-<p>The last thing I did was use stop words, which seemed to lower the quantity of true positives and fasle positives of the OLS model, but not necessarily improve accuracy or precision. I made some attempts in using LemmaTokenizer but wasn't fully convinced that I was using it properly, so I got rid of it</p>
+<p>The last thing I did was use stop words, which seemed to lower the quantity of true positives and false positives of the OLS model, but not necessarily improve accuracy or precision. I made some attempts in using LemmaTokenizer but wasn't fully convinced that I was using it properly, so I got rid of it</p>
 
 <h2>Before:</h2>
 
