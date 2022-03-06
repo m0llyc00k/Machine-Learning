@@ -12,6 +12,7 @@
 <p>The last thing I did was use stop words, which seemed to lower the quantity of true positives and fasle positives of the OLS model, but not necessarily improve accuracy or precision. I made some attempts in using LemmaTokenizer but wasn't fully convinced that I was using it properly, so I got rid of it</p>
 
 <h2>Before:</h2>
+<p>before</p>
 ![image](https://user-images.githubusercontent.com/86888346/156941674-6b61475d-a21b-4acf-96a2-8898808e2aa9.png)
 
 
