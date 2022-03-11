@@ -16,6 +16,8 @@
 <h2>Training Before:</h2>
 
 ![image](https://user-images.githubusercontent.com/86888346/156941674-6b61475d-a21b-4acf-96a2-8898808e2aa9.png)
+![image](https://user-images.githubusercontent.com/86888346/157959669-29b2963d-a1ab-42cb-a601-6a5a6d3181fc.png)
+
 <h2>Training After:</h2>
 
 ![image](https://user-images.githubusercontent.com/86888346/156941686-5a88442e-1c17-4e86-8061-5d16bb2552aa.png)
