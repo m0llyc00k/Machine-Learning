@@ -13,10 +13,15 @@
 
 <p>The last thing I did was use stop words, which seemed to lower the quantity of true positives and false positives of the OLS model, but not necessarily improve accuracy or precision. I made some attempts in using LemmaTokenizer but wasn't fully convinced that I was using it properly, so I got rid of it</p>
 
-<h2>Before:</h2>
+<h2>Training Before:</h2>
 
 ![image](https://user-images.githubusercontent.com/86888346/156941674-6b61475d-a21b-4acf-96a2-8898808e2aa9.png)
-<h2>After:</h2>
+<h2>Training After:</h2>
 
 ![image](https://user-images.githubusercontent.com/86888346/156941686-5a88442e-1c17-4e86-8061-5d16bb2552aa.png)
 
+<h2>Test Before:</h2>
+![image](https://user-images.githubusercontent.com/86888346/157959571-a473b7a2-5f93-457b-9a22-f632c0d518d6.png)
+
+<h2>Test After:</h2>
+![image](https://user-images.githubusercontent.com/86888346/157959041-ccb3a6ca-a4e9-475d-b5e7-078abb018407.png)
