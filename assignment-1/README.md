@@ -30,6 +30,7 @@
 <p>This code is under the file name "moviereviews_first_full_iteration_original_ridge.ipynb" and is an experiment to change the regulization parameter alpha. The best iteration of this experiment was "alpha=100000"</p>
 
 <h3> Training Before / Test Before: (alpha default)</h3>
+
 ![image](https://user-images.githubusercontent.com/86888346/159348075-785f5d5b-4919-4e92-8647-ee15539af4bd.png)
 
 ![image](https://user-images.githubusercontent.com/86888346/159348163-a4750f9f-bbeb-4f12-853d-c84dc2c0907b.png)
