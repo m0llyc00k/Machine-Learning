@@ -31,16 +31,14 @@
 
 <h3> Training Before / Test Before: (alpha default)</h3>
 
-![image](https://user-images.githubusercontent.com/86888346/159348075-785f5d5b-4919-4e92-8647-ee15539af4bd.png)
-
+![image](https://user-images.githubusercontent.com/86888346/159348075-785f5d5b-4919-4e92-8647-ee15539af4bd.png) 
 ![image](https://user-images.githubusercontent.com/86888346/159348163-a4750f9f-bbeb-4f12-853d-c84dc2c0907b.png)
 
 
 
 <h3>Training After / Test After: (alpha=100000)</h3>
 
-![image](https://user-images.githubusercontent.com/86888346/159348543-8f2bd20a-68bb-4317-b3df-01324a9bb903.png)
-
+![image](https://user-images.githubusercontent.com/86888346/159348543-8f2bd20a-68bb-4317-b3df-01324a9bb903.png) 
 ![image](https://user-images.githubusercontent.com/86888346/159348482-74bf19bc-d3d2-4c03-836e-35792abd832f.png)
 
 
