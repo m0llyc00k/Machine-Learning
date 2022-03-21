@@ -23,4 +23,15 @@
 ![image](https://user-images.githubusercontent.com/86888346/156941686-5a88442e-1c17-4e86-8061-5d16bb2552aa.png)
 ![image](https://user-images.githubusercontent.com/86888346/157959041-ccb3a6ca-a4e9-475d-b5e7-078abb018407.png)
 
+<hr>
+
+<h1>Regularization -- Ridge Classifier</h1>
+
+<p>This code is under the file name "moviereviews_first_full_iteration_original_ridge.ipynb" and is an experiment to change the regulization parameter alpha. The best iteration of this experiment was "alpha=100000"</p>
+
+<h2> Training Before / Test Before: (alpha default)</h2>
+![rdg_graph_train_orig](https://user-images.githubusercontent.com/86888346/159347766-25c56aba-c319-46bf-9805-bceb1da65113.png)![rdg_graph_test_orig](https://user-images.githubusercontent.com/86888346/159347781-46b98681-ff1a-4906-92fb-44968bc4c12f.png)
+
+
+<h2>Training After / Test After: (alpha=100000)</h2>
 
