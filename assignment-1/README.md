@@ -13,25 +13,26 @@
 
 <p>The last thing I did was use stop words, which seemed to lower the quantity of true positives and false positives of the OLS model, but not necessarily improve accuracy or precision. I made some attempts in using LemmaTokenizer but wasn't fully convinced that I was using it properly, so I got rid of it</p>
 
-<h2>Training Before / Test Before:</h2>
+<h3>Training Before / Test Before:</h3>
 
 ![image](https://user-images.githubusercontent.com/86888346/156941674-6b61475d-a21b-4acf-96a2-8898808e2aa9.png)
 ![image](https://user-images.githubusercontent.com/86888346/157959571-a473b7a2-5f93-457b-9a22-f632c0d518d6.png)
 
-<h2>Training After / Test After</h2>
+<h3>Training After / Test After</h3>
 
 ![image](https://user-images.githubusercontent.com/86888346/156941686-5a88442e-1c17-4e86-8061-5d16bb2552aa.png)
 ![image](https://user-images.githubusercontent.com/86888346/157959041-ccb3a6ca-a4e9-475d-b5e7-078abb018407.png)
 
 <hr>
 
-<h1>Regularization -- Ridge Classifier</h1>
+<h2>Regularization -- Ridge Classifier</h2>
 
 <p>This code is under the file name "moviereviews_first_full_iteration_original_ridge.ipynb" and is an experiment to change the regulization parameter alpha. The best iteration of this experiment was "alpha=100000"</p>
 
-<h2> Training Before / Test Before: (alpha default)</h2>
-![rdg_graph_train_orig](https://user-images.githubusercontent.com/86888346/159347766-25c56aba-c319-46bf-9805-bceb1da65113.png)![rdg_graph_test_orig](https://user-images.githubusercontent.com/86888346/159347781-46b98681-ff1a-4906-92fb-44968bc4c12f.png)
+<h3> Training Before / Test Before: (alpha default)</h3>
+![rdg_graph_train_orig](https://user-images.githubusercontent.com/86888346/159347766-25c56aba-c319-46bf-9805-bceb1da65113.png)
+![rdg_graph_test_orig](https://user-images.githubusercontent.com/86888346/159347781-46b98681-ff1a-4906-92fb-44968bc4c12f.png)
 
 
-<h2>Training After / Test After: (alpha=100000)</h2>
+<h3>Training After / Test After: (alpha=100000)</h3>
 
