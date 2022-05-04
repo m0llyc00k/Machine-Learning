@@ -1,10 +1,11 @@
+![image](https://user-images.githubusercontent.com/86888346/166617429-e8dc7929-554b-4320-8f8a-eab555f8e643.png)
+
 <h1> Assignment 3 </h1>
 <h2> Molly Cook </h2> 
 
 <p>For my first iteration on assignment 3, I edited a few things outlined below:</p>
 
 <h3> Count Vectorizer </h3> 
-![image](https://user-images.githubusercontent.com/86888346/166617429-e8dc7929-554b-4320-8f8a-eab555f8e643.png)
 <p>I edited the count vectorizer to remove stop words, ascii accents, and characters using a regex. These are some elements I pulled from assignment 1.</p>
 
 
