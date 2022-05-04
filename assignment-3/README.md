@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/86888346/166617429-e8dc7929-554b-4320-8f8a-eab555f8e643.png)
-
 <h1> Assignment 3 </h1>
 <h2> Molly Cook </h2> 
 
@@ -8,6 +6,7 @@
 <h3> Count Vectorizer </h3> 
 <p>I edited the count vectorizer to remove stop words, ascii accents, and characters using a regex. These are some elements I pulled from assignment 1.</p>
 
+![image](https://user-images.githubusercontent.com/86888346/166617429-e8dc7929-554b-4320-8f8a-eab555f8e643.png)
 
 <h3> Fit Kmeans / plt </h3> 
 <p>I changed the range for the cluster number from (1, 11) to (1, 50) and applied the sample code from option 1 to plot the elbow chart.</p>
