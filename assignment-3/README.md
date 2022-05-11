@@ -9,9 +9,16 @@
 
 
 <h3> Fit Kmeans / plt </h3> 
-<p>I changed the range for the cluster number from (1, 11) to (1, 50) and applied the sample code from option 1 to plot the elbow chart.</p>
+<p>I created a range of cluster numbers and looped through them so that the model would run faster. I found that number that were closer together and a large range worked well.</p>
 
-![image](https://user-images.githubusercontent.com/86888346/166617454-27265c3d-997b-4843-8804-1a4a289a4684.png)
+<img width="1089" alt="Screen Shot 2022-05-10 at 8 06 38 PM" src="https://user-images.githubusercontent.com/86888346/167744393-1976f6bf-8fb0-4423-bf75-a39ff34dc0b6.png">
 
 <h3>Result</h3>
-<p>Looking over the results, I did notice the model was quite successful in some ways (Ice cream, meats, and dry goods like flour were successfully clustered together) However, there were some odd clusters like a majority of fruits & veggies clustered with salmon and salsa... The model takes a very long time to run, but I think moving forward I'm going to have to resolve this odd issue.</p>
+<p>Looking over the final results, the model did pretty well! The biggest issue I had initially was that salmon and fish products were winding up in unrelated clusters. I was finally able to get fish products out of salsa, ice cream, veggies, etc. (I think some of the adjectives like 'fresh' used to describe the fish were pretty similar to adjectives used to describe fruits and vegetables, which inevitable made salmon wind up with romaine.) </p>
+<p>Here is a fish cluster:</p>
+<img width="1102" alt="Screen Shot 2022-05-10 at 8 09 04 PM" src="https://user-images.githubusercontent.com/86888346/167744748-6968b483-fa6a-40b5-8487-4e8f09b3ebde.png">
+<p>Here is a (separate!) salsa cluster:</p>
+<img width="1106" alt="Screen Shot 2022-05-10 at 8 08 34 PM" src="https://user-images.githubusercontent.com/86888346/167744849-33f7f029-5611-44a4-a88b-c3b8db451998.png">
+<p>The last trend that I noticed was that many clusters were determined by brand names rather than the contents themselves, but most brands seemed to make similar products so I don't see it as an issue. I also think from a useful perspective that it would be helpful to know the brands that have contaminated foods, given that they are the source. See example below:</p>
+
+<img width="1090" alt="Screen Shot 2022-05-10 at 8 10 19 PM" src="https://user-images.githubusercontent.com/86888346/167745115-5898f8b3-f22f-4e26-bf15-a39c2441e55c.png">
