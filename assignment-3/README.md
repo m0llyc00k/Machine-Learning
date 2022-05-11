@@ -26,5 +26,5 @@
 <p><b>The last trend that I noticed was that many clusters were determined by brand names rather than the contents themselves, but most brands seemed to make similar products so I don't see it as an issue. I also think from a useful perspective that it would be helpful to know the brands that have contaminated foods, given that they are the source. See example below:</b></p>
 <img width="1090" alt="Screen Shot 2022-05-10 at 8 10 19 PM" src="https://user-images.githubusercontent.com/86888346/167745115-5898f8b3-f22f-4e26-bf15-a39c2441e55c.png">
 
-<p><b>More clusters can be seen in the file.</b></p><
+<p><b>More clusters can be seen in the file.</b></p>
 
